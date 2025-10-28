@@ -1,2 +1,0 @@
-# ext-1761629112962-irqwnlb-platform
-AI-generated project via External API - Prompt: DESIGN ME A COMPLTE STUDENT MANAGE MENTSYSTEM WITH BACKEDN GOOGLE SHEETS
